@@ -9,7 +9,7 @@ This project explores the relationship between sleep patterns and health metrics
 - Comprehensive Reporting in HTML Format
 
 ## File Structure
-- **data**: Contains raw data files used for analysis.
+- **data/**: Contains raw data files used for analysis.
+- **visuals/**: Contains visualizations and tabulated results.
 - **uzay_çitimoğlu_mbg205project.R**: Includes the R script for data analysis.
-- **visuals**: Contains visualizations and tabulated results.
 - **uzay_mbg205project.R.html**: Full project report in HTML format.
